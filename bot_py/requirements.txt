@@ -5,7 +5,7 @@ SQLAlchemy>=2.0,<3.0
 psycopg[binary]>=3.1
 httpx>=0.27
 python-multipart>=0.0.9
-python-dotenv>=1.0
+python-dotenv>=1.2.4
 tzdata>=2024.1
 
 # Web Push — telefon bildirishnomasi (VAPID bilan imzolangan xabar)
